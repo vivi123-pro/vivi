@@ -10,6 +10,11 @@ Currently focused on improving my skills, working on real-world projects, and gr
 
 Here are some things I’ve worked on (and still working on):
 
+### 🌟 Portfolio Website (Featured)
+[Live Site](https://personal-portfolio-m7wh.vercel.app/) | [Repo](https://github.com/vivi123-pro/personal-portfolio.git)  
+My personal portfolio showcasing my projects, skills, and journey as a developer.  
+Built with: React, Tailwind CSS
+
 ### 🔹 [BizPulse](https://biz-pulse.vercel.app/)
 BizPulse is an AI-powered business intelligence co-pilot for SMBs. It turns raw sales, feedback, and market data into clear narrative insights, anomaly alerts, and action-oriented recommendations — helping small businesses make faster, smarter, data-driven decisions.
 **Tech used:** React, Django, PostgreSQL
